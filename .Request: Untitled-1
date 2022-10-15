@@ -1,0 +1,6 @@
+# Request:
+GET /hello?name=Leo
+
+# Expected response (200 OK):
+Hello Leo
+
